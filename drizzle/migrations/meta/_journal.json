@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1795102319933,
+      "tag": "0000_novels_forever_core",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1795102341385,
+      "tag": "0001_novel_pdfs_storage_policies",
+      "breakpoints": true
+    }
+  ]
+}
